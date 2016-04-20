@@ -1,0 +1,143 @@
+.modal .modal-dialog{
+	width: 66.717%;
+}
+.pm_popup_modal.modal.modal.fade.bs-example-modal-lg.in{
+	display: block;
+    overflow-y: hidden;
+}
+
+.media-modal-close{
+	top: 1% !important;
+    right: 3% !important;
+}
+
+#email_link_myModal .modal-dialog .modal-content,
+.cu_modal-body {
+	overflow-y: visible !important;
+}
+.cu_modal-content{
+	overflow-y: auto;
+    max-height: 100%;
+}
+.pm_tree_sv09.ui-sortable-handle {
+	position:absolute;
+	bottom:20px;
+	right:20px;
+}
+#horiz_container .row.ui-sortable {
+	position:relative;
+}
+
+.dothis:before{
+	display:none !important;
+}
+.slideside{
+	display:none !important;
+}
+
+.slideleft{
+overflow: visible;
+    margin-left: 0;
+}
+.slidefooter{
+margin-left: 6.5% !important;
+}
+.modal-content .title{
+	padding: 15px 100px 10px;
+}
+.title h5 {
+    font-size: 16px !important;
+    font-weight: bold;
+    text-align: left;
+    padding: 15px 0 0;
+	margin: 30px 0 0;
+    display: inline-block;
+    width: 100%;
+    color: #444;
+}
+a.editlink {
+    font-size: 13px !important;
+    font-weight: bold;
+    text-align: center;
+    padding: 14px 0px;
+    display: block;
+    /* width: 100%; */
+    /* color: #444; */
+    position: absolute;
+    right: 3%;
+    top: 8%;
+}
+.url {
+    padding: 0 0 20px;
+}
+.pm_popup_modal .url a {
+    border-bottom: 0;
+    font-size: 13px;
+    color: #E86A75;
+	text-decoration: none !important;
+}
+.pm_popup_modal .url a:hover,
+.pm_popup_modal .url a:focus {
+	color:#00a0d2;
+}
+/* .mce-reset label.mce-first{
+    width: 200px !important;
+    top: 30px !important;
+} */
+.mce-reset textarea {
+    width: 465px;
+    left: 10px;
+    top: 37px;
+    height: 130px;
+}
+/* .pm_tree_sv09.ui-sortable-handle{
+    bottom: -22%;
+right: 0%;
+position: absolute;
+height: 50px;
+margin-top: 10%;
+}
+
+#email_link{ 
+position: relative; 
+} */
+/*
+#sidebar,body:before{
+	display: none;
+}
+#content.site-content{
+	overflow: visible;
+    margin-left: 0;
+}
+.site-footer{
+	margin-left: 6.5% !important;
+}*/
+/*email-scroll hide*/
+/* 
+#email_link_myModal{
+	overflow-y:hidden !important;
+}
+#horiz_container_outer{
+    overflow-x: visible !important;
+    overflow-y: visible !important;
+    border: 0px solid #cccccc;
+}
+
+
+.modal-dialog .modal-lg{
+	width: 80% !important;
+}
+.modal-body{
+	    overflow-y: scroll;
+} */
+.post-edit-link{
+display:none;
+}
+.entry-title{
+    font-size: 11px !important;
+
+}
+.cu_modal-content {
+    overflow-y: auto;
+    max-height: 100vh;
+}
